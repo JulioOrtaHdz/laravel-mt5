@@ -1,7 +1,7 @@
 
 ## Laravel MT5
 
-This is Laravel 6.x package wrapper library for Metatrader 5 Web API
+This is Laravel 8.x package wrapper library for Metatrader 5 Web API
 - [Official MT5 Web Api Documentation](https://support.metaquotes.net/en/docs/mt5/api/webapi).
 
 

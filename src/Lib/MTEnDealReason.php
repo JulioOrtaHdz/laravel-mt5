@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Tarikhagustia\LaravelMt5\src\Lib;
+namespace Tarikhagustia\LaravelMt5\Lib;
 
 
 class MTEnDealReason

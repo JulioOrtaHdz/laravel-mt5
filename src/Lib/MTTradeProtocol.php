@@ -94,7 +94,7 @@ class MTTradeProtocol
 
 
         //--- check ret code
-        if(($ret_code = MTConnect::GetRetCode($trade_answer->RetCode)) != MTRetCode::MT_RET_OK) return $ret_code;
+        if(($ret_code = MTConnect::GetRetCode($trade_answer->RetCode." Done")) != MTRetCode::MT_RET_OK) return $ret_code;
         //---
         return MTRetCode::MT_RET_OK;
     }
