@@ -7,7 +7,7 @@
     "content-hash": "ff9df85cd60b3c6a8a3573d1093eccb8",
     "packages": [
         {
-            "name": "tarikh/php-mt5",
+            "name": "JulioOrtaHdz/php-mt5",
             "version": "1.6.1",
             "source": {
                 "type": "git",
@@ -23,17 +23,14 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Tarikh\\PhpMeta\\": "src/"
+                    "JulioOrtaHdz\\PhpMeta\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
             "authors": [
                 {
-                    "name": "Tarikh Agustia Ijudin",
-                    "email": "agustia.tarikh150@gmail.com"
+                    "name": "Julio Alejandro Orta Hernandez",
+                    "email": "julio_oh86@hotmail.com"
                 }
             ],
             "description": "A Metatrader 5 Web API Wrapper for Laravel",
