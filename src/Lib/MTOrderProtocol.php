@@ -1,5 +1,5 @@
 <?php
-namespace Tarikhagustia\LaravelMt5\Lib;
+namespace JulioOrtaHdz\LaravelMt5\Lib;
 
 class MTOrderProtocol
 {

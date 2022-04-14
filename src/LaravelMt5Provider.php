@@ -1,5 +1,5 @@
 <?php
-namespace Tarikhagustia\LaravelMt5;
+namespace JulioOrtaHdz\LaravelMt5;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,5 +1,5 @@
 <?php
-namespace Tarikhagustia\LaravelMt5\Lib;
+namespace JulioOrtaHdz\LaravelMt5\Lib;
 
 //+------------------------------------------------------------------+
 //|                                             MetaTrader 5 Web API |

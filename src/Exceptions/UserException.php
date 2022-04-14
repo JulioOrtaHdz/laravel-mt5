@@ -1,6 +1,6 @@
 <?php
 
-namespace Tarikhagustia\LaravelMt5\Exceptions;
+namespace JulioOrtaHdz\LaravelMt5\Exceptions;
 
 use Exception;
 

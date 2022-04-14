@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Tarikhagustia\LaravelMt5;
+namespace JulioOrtaHdz\LaravelMt5;
 
 
 use Tarikh\PhpMeta\MetaTraderClient;

@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Tarikhagustia\LaravelMt5\Entities;
+namespace JulioOrtaHdz\LaravelMt5\Entities;
 
 
 /**
  * Class Trade
- * @package Tarikhagustia\LaravelMt5\Entities
+ * @package JulioOrtaHdz\LaravelMt5\Entities
  */
 class Trade
 {

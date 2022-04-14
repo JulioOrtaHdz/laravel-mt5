@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "tarikh/php-mt5": "^1.5"
+        "JulioOrtaHdz/php-mt5": "^1.5"
     },
     "autoload": {
         "psr-4": {
