@@ -1,5 +1,5 @@
 {
-    "name": "JulioOrtaHdz/laravel-mt5",
+    "name": "julioortahdz/laravel-mt5",
     "description": "Metatrader 5 Web API Wrapper for Laravel",
     "type": "library",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "JulioOrtaHdz/php-mt5": "^1.5"
+        "composer require julioortahdz/php-mt5": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
