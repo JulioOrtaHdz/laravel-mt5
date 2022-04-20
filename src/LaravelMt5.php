@@ -4,8 +4,8 @@
 namespace JulioOrtaHdz\LaravelMt5;
 
 
-use Tarikh\PhpMeta\MetaTraderClient;
-use Tarikh\PhpMeta\Lib\CMT5Request;
+use JulioOrtaHdz\PhpMeta\MetaTraderClient;
+use JulioOrtaHdz\PhpMeta\Lib\CMT5Request;
 
 
 class LaravelMt5 extends MetaTraderClient
